@@ -1,0 +1,28 @@
+#EXTINF:-1 tvg-name="Ekattor" tvg-language="Bengali" tvg-country="BD" tvg-id="Ekattor" tvg-logo="https://latesttopnewsnow.com/wp-content/uploads/2015/11/Ekattor-TV-Logo.jpg" group-title="News",Ekattor (News) (BD) (Bengali)
+https://118.179.35.11/hls/EkattorHDV5U46/04.m3u8
+#EXTINF:-1 tvg-name="Independant" tvg-language="Bengali" tvg-country="BD" tvg-id="Independant" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1174px-Independent_Television_Logo.svg.png" group-title="News",Independant (News) (BD) (Bengali)
+https://118.179.35.11/hls/ITV2434BuA/05.m3u8
+#EXTINF:-1 tvg-name="Jamuna TV" tvg-language="Bengali" tvg-country="BD" tvg-id="Jamuna TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2013/11/jamunatv6.jpg" group-title="News",Jamuna TV (News) (BD) (Bengali)
+https://118.179.35.11/hls/JamunaTVNs4ME/04.m3u8
+#EXTINF:-1 tvg-name="ATN" tvg-language="Bengali" tvg-country="BD" tvg-id="ATN" tvg-logo="https://www.media247.co.uk/bizasia/wp-content/uploads/2013/01/atn_bangla001.jpg" group-title="Entertainment",ATN (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/ATN_BanglaoUPi3/05.m3u8
+#EXTINF:-1 tvg-name="BanglaVision" tvg-language="Bengali" tvg-country="BD" tvg-id="BanglaVision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Entertainment",BanglaVision (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/Bangla_VisionhS43B/02.m3u8
+#EXTINF:-1 tvg-name="Channel i" tvg-language="Bengali" tvg-country="BD" tvg-id="Channel i" tvg-logo="https://www.userlogos.org/files/logos/jumpordie/channel-i_01.png" group-title="Entertainment",Channel i (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/ChannelI4sZk9/05.m3u8
+#EXTINF:-1 tvg-name="Channel 24" tvg-language="Bengali" tvg-country="BD" tvg-id="Channel24" tvg-logo="https://jagobd.com/image/channel24-8.jpg" group-title="Entertainment",Channel 24 (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/Channel24mStU9/index.m3u8
+#EXTINF:-1 tvg-name="Desh TV" tvg-language="Bengali" tvg-country="BD" tvg-id="Desh TV" tvg-logo="https://www.karnaphuli.com/images/desh-tv-logo.png" group-title="Entertainment",Desh TV (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/Desh_TVYCjrz/05.m3u8
+#EXTINF:-1 tvg-name="Ekushey" tvg-language="Bengali" tvg-country="BD" tvg-id="Ekushey" tvg-logo="https://www.zingmobile.net/news_clip_image001.gif" group-title="Entertainment",Ekushey (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/ETVFQ46s/05.m3u8
+#EXTINF:-1 tvg-name="Maasranga" tvg-language="Bengali" tvg-country="BD" tvg-id="Maasranga" tvg-logo="https://demo.sslwireless.com/octane/image/data/Media/Maasranga.jpg" group-title="Entertainment",Maasranga (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/MaasrangaSetxBQz5/05.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-language="Bengali" tvg-country="BD" tvg-id="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_(Bangladesh)_logo.svg/1280px-NTV_(Bangladesh)_logo.svg.png" group-title="Entertainment",NTV (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/nTVKeQBR/02.m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-language="Bengali" tvg-country="BD" tvg-id="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG" group-title="Entertainment",RTV (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/RTVBHp5Y/05.m3u8
+#EXTINF:-1 tvg-name="SATV" tvg-language="Bengali" tvg-country="BD" tvg-id="SATV" tvg-logo="https://www.allbanglanewspaperlist.com/source/upload/20140430154750.jpg" group-title="Entertainment",SATV (Entertainment) (BD) (Bengali)
+https://118.179.35.11/hls/SATVhfnbM/06.m3u8
+#EXTINF:-1 tvg-name="Gaan Bangla TV" tvg-language="Bengali" tvg-country="BD" tvg-id="Gaan Bangla TV" tvg-logo="https://t2.gstatic.com/images?q=tbn:ANd9GcTIEEOgA6uBrsgsI0p0GDSGOkPpbNZgZtehAXFJ4xuI3mLXf4-qYIeg2828" group-title="Music",Gaan Bangla TV (Music) (BD) (Bengali)
+https://118.179.35.11/hls/GRAMBANGLA/index.m3u8
